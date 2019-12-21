@@ -1,4 +1,6 @@
-# Appdaemon docker image for rPi
+# This project is inactive, and will not be maintained further.
+
+## Appdaemon docker image for rPi
 
 Docker image for [Appdaemon](https://github.com/home-assistant/appdaemon) for rPi
 (and probably other armhf flavors, havn't tried :P).
