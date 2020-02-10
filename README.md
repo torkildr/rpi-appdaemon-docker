@@ -6,7 +6,7 @@ Docker image for [Appdaemon](https://github.com/home-assistant/appdaemon) for rP
 (and probably other armhf flavors, havn't tried :P).
 
 This image is based on the
-[resin/raspberrypi3-python:3.6](https://hub.docker.com/r/resin/raspberrypi3-python/)
+[arm32v7/python:3.8](https://hub.docker.com/r/arm32v7/python/)
 image. Appdaemon is installed from pip, not github, to make sure we get a stable
 version. Because of this, I don't currently have a dev-tag based on the
 dev-branch. I might add this, if there's a audience for it.
